@@ -8,7 +8,7 @@ import type { Chat } from '@google/genai'; // Keep the type for ChatView compati
 //
 // IMPORTANT: Replace 'YOUR_GOOGLE_APPS_SCRIPT_URL_HERE' with the URL of your deployed Google Apps Script.
 // See README.md for detailed instructions.
-const GOOGLE_SCRIPT_URL: string = 'https://script.google.com/macros/s/AKfycbzkUJOFoqf8Y5xAlafkRVT5oLxz3ck5qTiTDsOYcQI2wyq1KgAD0h9wuXyHuP9VQdy1/exec';
+const GOOGLE_SCRIPT_URL: string = 'https://script.google.com/macros/s/AKfycbxITD-1SUEJ3u3y7cCTehKVX-s55aEmEWpOtUsKs3nj23z0W_ta1nvdWnsnY43nVZ6h/exec';
 // ====================================================================================
 
 
